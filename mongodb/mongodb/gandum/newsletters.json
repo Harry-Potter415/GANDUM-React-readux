@@ -1,0 +1,28 @@
+{ 
+    "_id" : ObjectId("608a3b54c3ae0b15e85ba3b7"), 
+    "email" : "user@email.com", 
+    "status" : "approved", 
+    "date" : ISODate("2021-04-29T04:51:32.593+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("608a3c90c3ae0b15e85ba3b9"), 
+    "email" : "sadas@gmail.com", 
+    "status" : "approved", 
+    "date" : ISODate("2021-04-29T04:56:48.831+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("608bd57f8557d012e862a2ee"), 
+    "email" : "user@femail.com", 
+    "status" : "approved", 
+    "date" : ISODate("2021-04-30T10:01:35.265+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("608e2e2f37312a0a685a3de2"), 
+    "email" : "user3@email.com", 
+    "status" : "approved", 
+    "date" : ISODate("2021-05-02T04:44:31.485+0000"), 
+    "__v" : NumberInt(0)
+}

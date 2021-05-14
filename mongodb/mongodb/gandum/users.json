@@ -1,0 +1,10 @@
+{ 
+    "_id" : ObjectId("608a3a67045a7c1208457826"), 
+    "email" : "oldschool9811@gmail.com", 
+    "company" : "", 
+    "phone" : "2333333333", 
+    "password" : "$2a$10$0G7EydO.qB.NWyJaUoZJ6OlyhRs.PYfVXGQ0MVIvHq0Y.FMXzQ68C", 
+    "date" : ISODate("2021-04-29T04:44:19.906+0000"), 
+    "__v" : NumberInt(0), 
+    "name" : "Test"
+}

@@ -1,0 +1,38 @@
+{ 
+    "_id" : ObjectId("60900e0f1002b406383f3ba8"), 
+    "customer_id" : ObjectId("608a39a3c3ae0b15e85ba3b6"), 
+    "billing" : {
+        "state" : "sindh", 
+        "city" : "karachi", 
+        "phone" : "3434437776", 
+        "company" : "ff", 
+        "email" : "oldschool9811@gmail.com", 
+        "lastname" : "Test", 
+        "firstname" : "asdasda", 
+        "country" : "usa"
+    }, 
+    "shipping" : {
+        "country" : "usa", 
+        "address_line_1" : "asdada", 
+        "firstname" : "asdasda", 
+        "city" : "karachi", 
+        "state" : "sindh", 
+        "company" : "ff", 
+        "address_line_2" : "ff"
+    }, 
+    "status" : "Processing", 
+    "subtotal" : NumberInt(1650), 
+    "total" : NumberInt(1650), 
+    "paymentMethod" : "paypal", 
+    "products" : [
+        {
+            "_id" : ObjectId("60900e0f1002b406383f3ba9"), 
+            "name" : "product1-1", 
+            "cost" : NumberInt(550), 
+            "qty" : NumberInt(3), 
+            "product_id" : ObjectId("608bcd6d8557d012e862a2ec")
+        }
+    ], 
+    "date" : ISODate("2021-05-03T14:51:59.147+0000"), 
+    "__v" : NumberInt(7)
+}

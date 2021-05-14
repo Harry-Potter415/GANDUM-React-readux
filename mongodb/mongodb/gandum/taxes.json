@@ -1,0 +1,14 @@
+{ 
+    "_id" : ObjectId("608bcc9f8557d012e862a2ea"), 
+    "tax_class" : [
+        {
+            "system" : NumberInt(0), 
+            "_id" : ObjectId("608bcc9f8557d012e862a2eb"), 
+            "name" : "TAX", 
+            "percentage" : NumberInt(10)
+        }
+    ], 
+    "date" : ISODate("2021-04-30T09:23:43.364+0000"), 
+    "updated" : ISODate("2021-04-30T09:23:43.366+0000"), 
+    "__v" : NumberInt(0)
+}

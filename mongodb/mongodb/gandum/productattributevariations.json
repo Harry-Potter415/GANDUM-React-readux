@@ -1,0 +1,52 @@
+{ 
+    "_id" : ObjectId("608bb8cae5007004fc2968e8"), 
+    "combination" : [
+
+    ], 
+    "price" : NumberInt(22), 
+    "quantity" : NumberInt(2), 
+    "sku" : "123", 
+    "product_id" : ObjectId("608bb8cae5007004fc2968e5"), 
+    "__v" : NumberInt(0), 
+    "createdAt" : ISODate("2021-04-30T07:59:06.547+0000"), 
+    "updatedAt" : ISODate("2021-04-30T07:59:06.547+0000")
+}
+{ 
+    "_id" : ObjectId("608bb8cae5007004fc2968e9"), 
+    "combination" : [
+
+    ], 
+    "price" : NumberInt(22), 
+    "quantity" : NumberInt(2), 
+    "sku" : "123", 
+    "product_id" : ObjectId("608bb8cae5007004fc2968e6"), 
+    "__v" : NumberInt(0), 
+    "createdAt" : ISODate("2021-04-30T07:59:06.967+0000"), 
+    "updatedAt" : ISODate("2021-04-30T07:59:06.967+0000")
+}
+{ 
+    "_id" : ObjectId("608bb8cae5007004fc2968ea"), 
+    "combination" : [
+
+    ], 
+    "price" : NumberInt(22), 
+    "quantity" : NumberInt(2), 
+    "sku" : "123", 
+    "product_id" : ObjectId("608bb8cae5007004fc2968e7"), 
+    "__v" : NumberInt(0), 
+    "createdAt" : ISODate("2021-04-30T07:59:06.997+0000"), 
+    "updatedAt" : ISODate("2021-04-30T07:59:06.997+0000")
+}
+{ 
+    "_id" : ObjectId("608bcd6d8557d012e862a2ed"), 
+    "combination" : [
+
+    ], 
+    "price" : NumberInt(550), 
+    "quantity" : NumberInt(100), 
+    "sku" : "sku1", 
+    "product_id" : ObjectId("608bcd6d8557d012e862a2ec"), 
+    "__v" : NumberInt(0), 
+    "createdAt" : ISODate("2021-04-30T09:27:09.838+0000"), 
+    "updatedAt" : ISODate("2021-04-30T09:27:09.838+0000")
+}

@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("608bcd6d8557d012e862a2ec"), 
+    "pricing" : {
+        "price" : NumberInt(500), 
+        "sellprice" : NumberInt(550)
+    }, 
+    "shipping" : {
+        "height" : NumberInt(1), 
+        "width" : NumberInt(1), 
+        "depth" : NumberInt(1), 
+        "weight" : NumberInt(1), 
+        "shipping_class" : ObjectId("608bcb8fc7023010bcdda3ee")
+    }, 
+    "categoryId" : [
+        "608bb964e5007004fc2968ec"
+    ], 
+    "brand" : ObjectId("608bc0f4e5007004fc2968f3"), 
+    "variant" : [
+
+    ], 
+    "name" : "product1-1", 
+    "url" : "product1-1", 
+    "short_description" : "", 
+    "description" : "<p>This is product</p>", 
+    "sku" : "sku1", 
+    "quantity" : NumberInt(100), 
+    "feature_image" : {
+        "large" : "/assets/images/product/feature/large/sku1.jpg", 
+        "medium" : "/assets/images/product/feature/medium/sku1.jpg", 
+        "original" : "/assets/images/product/feature/original/sku1.jpg", 
+        "thumbnail" : "/assets/images/product/feature/thumbnail/sku1.jpg"
+    }, 
+    "gallery_image" : [
+
+    ], 
+    "status" : "Publish", 
+    "meta" : {
+        "title" : "", 
+        "description" : "", 
+        "keywords" : ""
+    }, 
+    "tax_class" : ObjectId("608bcc9f8557d012e862a2eb"), 
+    "featured_product" : false, 
+    "product_type" : {
+        "virtual" : false, 
+        "downloadable" : false
+    }, 
+    "custom_field" : [
+
+    ], 
+    "attribute" : [
+
+    ], 
+    "date" : ISODate("2021-04-30T09:27:09.828+0000"), 
+    "__v" : NumberInt(0)
+}

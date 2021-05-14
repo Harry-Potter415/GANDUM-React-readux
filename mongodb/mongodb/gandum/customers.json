@@ -1,0 +1,78 @@
+{ 
+    "_id" : ObjectId("608a39a3c3ae0b15e85ba3b6"), 
+    "cart" : {
+        "items" : [
+
+        ]
+    }, 
+    "wishlist" : [
+        "608bcd6d8557d012e862a2ec"
+    ], 
+    "first_name" : "Test", 
+    "last_name" : "Test", 
+    "email" : "oldschool9811@gmail.com", 
+    "company" : "", 
+    "phone" : "2333333333", 
+    "password" : "$2a$10$uMNZPeOfVX/iy8dow253.OITo.P5mW3uW0w0R9xivkzBzMniktYya", 
+    "address_book" : [
+        {
+            "_id" : ObjectId("608a3c62c3ae0b15e85ba3b8"), 
+            "first_name" : "adnan", 
+            "last_name" : "ahsan", 
+            "company" : "Vizco Immigration and Legal Services Professional Corporation.", 
+            "phone" : "03032081633", 
+            "address_line1" : "House#1795-B, Street#1 Muslim town, near Dada bhai town, Mehmoodabad flyover & City School PAF CHAPTER shaheed-e-milat road Karachi.", 
+            "address_line2" : "", 
+            "city" : "karachi", 
+            "country" : "Pakistan", 
+            "state" : "sindh", 
+            "pincode" : "75460", 
+            "default_address" : true
+        }
+    ], 
+    "date" : ISODate("2021-04-29T04:44:19.906+0000"), 
+    "__v" : NumberInt(7), 
+    "updated" : ISODate("2021-05-03T14:56:44.998+0000")
+}
+{ 
+    "_id" : ObjectId("608bc00fe5007004fc2968f1"), 
+    "cart" : {
+        "items" : [
+
+        ]
+    }, 
+    "wishlist" : [
+
+    ], 
+    "first_name" : "test", 
+    "last_name" : "test", 
+    "email" : "test@gmail.com", 
+    "phone" : "3434343434", 
+    "password" : "$2a$10$e4Bipesmx9F/cYepL01gA.S4RhS2UK.RpHKK8fl7fJHyUpchD/6ry", 
+    "address_book" : [
+
+    ], 
+    "date" : ISODate("2021-04-30T08:30:07.924+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("608e26db37312a0a685a3de1"), 
+    "cart" : {
+        "items" : [
+
+        ]
+    }, 
+    "wishlist" : [
+
+    ], 
+    "first_name" : "Test", 
+    "last_name" : "Test", 
+    "email" : "sul@rectifyideas.com", 
+    "phone" : "0000000000", 
+    "password" : "$2a$10$opBBGWbasd8E9zexPu2K5ualR0HbEXYdgTVXKcH/zv.nyR4pv/xte", 
+    "address_book" : [
+
+    ], 
+    "date" : ISODate("2021-05-02T04:13:15.891+0000"), 
+    "__v" : NumberInt(0)
+}

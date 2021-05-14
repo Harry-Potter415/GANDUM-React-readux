@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("608bbd9ce5007004fc2968f0"), 
+    "name" : "brand1", 
+    "url" : "brand1", 
+    "meta" : {
+        "title" : "", 
+        "description" : "", 
+        "keywords" : ""
+    }, 
+    "date" : ISODate("2021-04-30T08:19:40.114+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("608bc0f4e5007004fc2968f3"), 
+    "name" : "Apple", 
+    "url" : "apple", 
+    "meta" : {
+        "title" : "", 
+        "description" : "", 
+        "keywords" : ""
+    }, 
+    "date" : ISODate("2021-04-30T08:33:56.784+0000"), 
+    "__v" : NumberInt(0)
+}

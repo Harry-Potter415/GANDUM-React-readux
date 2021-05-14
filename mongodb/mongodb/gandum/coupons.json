@@ -1,0 +1,25 @@
+{ 
+    "_id" : ObjectId("608bbd79e5007004fc2968ef"), 
+    "free_shipping" : false, 
+    "products" : [
+
+    ], 
+    "exclude_products" : [
+
+    ], 
+    "categories" : [
+
+    ], 
+    "exclude_categories" : [
+
+    ], 
+    "code" : "asd", 
+    "description" : "", 
+    "discount_type" : "precantage-discount", 
+    "discount_value" : NumberInt(3434), 
+    "expire" : "2021-04-27", 
+    "minimum_spend" : NumberInt(0), 
+    "maximum_spend" : NumberInt(0), 
+    "date" : ISODate("2021-04-30T08:19:05.692+0000"), 
+    "__v" : NumberInt(0)
+}

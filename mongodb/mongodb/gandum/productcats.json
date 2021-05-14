@@ -1,0 +1,60 @@
+{ 
+    "_id" : ObjectId("608bb92be5007004fc2968eb"), 
+    "parentId" : null, 
+    "name" : "category-1", 
+    "url" : "category-1", 
+    "description" : "", 
+    "image" : "", 
+    "meta" : {
+        "title" : "", 
+        "description" : "", 
+        "keywords" : ""
+    }, 
+    "date" : ISODate("2021-04-30T08:00:43.101+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("608bb964e5007004fc2968ec"), 
+    "parentId" : ObjectId("608bb92be5007004fc2968eb"), 
+    "name" : "category1-1", 
+    "url" : "1619769669675", 
+    "description" : "", 
+    "image" : "", 
+    "meta" : {
+        "title" : "", 
+        "description" : "", 
+        "keywords" : ""
+    }, 
+    "date" : ISODate("2021-04-30T08:01:40.406+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("608bb988e5007004fc2968ed"), 
+    "parentId" : null, 
+    "name" : "category2", 
+    "url" : "category2-1", 
+    "description" : "", 
+    "image" : "", 
+    "meta" : {
+        "title" : "", 
+        "description" : "", 
+        "keywords" : ""
+    }, 
+    "date" : ISODate("2021-04-30T08:02:16.978+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("608bb997e5007004fc2968ee"), 
+    "parentId" : ObjectId("608bb988e5007004fc2968ed"), 
+    "name" : "category2-1", 
+    "url" : "category2-2", 
+    "description" : "", 
+    "image" : "", 
+    "meta" : {
+        "title" : "", 
+        "description" : "", 
+        "keywords" : ""
+    }, 
+    "date" : ISODate("2021-04-30T08:02:31.778+0000"), 
+    "__v" : NumberInt(0)
+}
